@@ -1,2 +1,3 @@
 # pune-practice
-author - Aditya Mane
+author - Aditya (data scientist)
+
